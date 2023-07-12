@@ -81,7 +81,7 @@ nav {
 }
 nav .menu {
   display: flex;
-  position: absolute;
+  position: fixed;
   flex-direction: column;
   top: 0;
   bottom: 0;
